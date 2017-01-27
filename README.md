@@ -1,2 +1,2 @@
 # electron-wiki
-Electron wiki
+Electron [wiki](https://github.com/PublicVar/electron-wiki/wiki)
